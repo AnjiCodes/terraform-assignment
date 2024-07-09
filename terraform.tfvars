@@ -1,0 +1,10 @@
+humber_id     = "n9648"
+location      = "Canada Central"
+linux_names   = ["vm1", "vm2", "vm3"]
+windows_names = ["vm1"]
+public_ip_id  = "/subscriptions/a5af25c2-16d0-40b6-9bc4-b700ad0f4ec3/resourceGroups/n9648-rg/providers/Microsoft.Network/publicIPAddresses/n9648-public-ip"
+resource_group_name = "n9648-rg"
+ssh_private_key_path = "~/.ssh/id_rsa"
+ssh_public_key_path  = "~/.ssh/id_rsa.pub"
+storage_account_uri = "https://n9648storage.blob.core.windows.net/"
+subnet_id = "/subscriptions/a5af25c2-16d0-40b6-9bc4-b700ad0f4ec3/resourceGroups/n9648-rg/providers/Microsoft.Network/virtualNetworks/n9648-vnet/subnets/n9648-subnet"
